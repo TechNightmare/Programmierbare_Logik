@@ -1,6 +1,6 @@
 # Programmierbare Logik
 
-Modul Programmierbare Logik
+Modul Programmierbare Logik Sose19 Beuth Hochschule für Technik
 
 Alle Projekte wurden in Quartus angelegt und auf einem Cyclone® IV FPGA getestet.
 
